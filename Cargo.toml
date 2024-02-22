@@ -1,0 +1,9 @@
+[package]
+name = "game-3d"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13.0"
+bevy-inspector-egui = "0.23.2"
+bevy_third_person_camera = "0.1.8"
